@@ -9,7 +9,7 @@
 <div class="row">
   <div class="col-md-12">
     <br>
-    <h2>Featured</h2>
+    <h2>jijijij</h2>
   </div>
     @foreach($featured as $featured)
       <div class="col-md-4">
